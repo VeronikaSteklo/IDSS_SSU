@@ -1,0 +1,20 @@
+services:
+  jupyter_spark:
+    image: jupyter/pyspark-notebook:spark-3.5.0
+    container_name: task1_pyspark_ml_container
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./work:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=pyspark_ml
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    command: >
+      start-notebook.sh
+      --ServerApp.ip=0.0.0.0
+      --ServerApp.port=8888
+      --ServerApp.allow_origin=*
+      --ServerApp.token=pyspark_ml
+    restart: unless-stopped

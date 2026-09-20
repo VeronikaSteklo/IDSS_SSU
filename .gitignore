@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+
+# Spark / local runtime artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+spark-logs/
+checkpoints/
+
+# Project-specific generated artifacts
+**/work/models/
+**/work/checkpoints/
+
+# Optional: ignore large local data files if needed
+**/work/data/
