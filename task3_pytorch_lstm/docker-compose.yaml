@@ -1,0 +1,20 @@
+services:
+  jupyter_spark:
+    build: .
+    container_name: task3_pytorch_lstm_container
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./work:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=pytorch_lstm
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    command: >
+      start-notebook.sh
+      --ServerApp.ip=0.0.0.0
+      --ServerApp.port=8888
+      --ServerApp.allow_origin=*
+      --ServerApp.token=pytorch_lstm
+    restart: unless-stopped
