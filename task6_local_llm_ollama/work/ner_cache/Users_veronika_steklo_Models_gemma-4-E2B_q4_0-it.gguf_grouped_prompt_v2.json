@@ -1,0 +1,2067 @@
+{
+  "predictions": [
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Meknes"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Chile"
+        ],
+        "ORG": [
+          "ENAP",
+          "Oriente",
+          "Escravos"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Iceland"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Bank of Finland"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Yuuchi Takeda"
+        ],
+        "LOC": [
+          "Japan"
+        ],
+        "ORG": [
+          "Honda"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [
+          "Daniel Vacek"
+        ],
+        "LOC": [
+          "Czech Republic"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Steve Weizman"
+        ],
+        "LOC": [
+          "Copenhagen"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Giunluca Gorini",
+          "Aki"
+        ],
+        "LOC": [
+          "Italy"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": [
+          "QADISSIYA"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Zurich"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "U.S. Open"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Warsaw",
+          "Belchatow"
+        ],
+        "ORG": [
+          "Legia",
+          "GKS"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Dunfermline"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Simon Brown"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [
+          "Mother Teresa"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Wolfgang Kreissig"
+        ],
+        "LOC": [
+          "Germany"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Jose Maria Canizares",
+          "Paul Lawrie"
+        ],
+        "LOC": [
+          "Spain"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Hwa Kay"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Chechnya"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "CINCINNATI",
+          "COLORADO"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Seychelles"
+        ],
+        "ORG": [
+          "African Nations Cup"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "COLOMBO"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "New York"
+        ],
+        "ORG": [
+          "Dow Jones"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Essex"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Newcrest Mining Ltd"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Worcestershire"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Bill Clinton"
+        ],
+        "LOC": [
+          "U.S.",
+          "Ukraine",
+          "Europe"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Petra Langrova",
+          "Naoko Sawamatsu"
+        ],
+        "LOC": [
+          "Czech Republic",
+          "Japan"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Shrewsbury",
+          "Brentford",
+          "Walsall",
+          "Wrexham"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Salisbury"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "MORAV.CHEMIC. ZAV"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "GACETA DE LOS NEGOCIOS"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Choudhury"
+        ],
+        "LOC": [],
+        "ORG": [
+          "U.N. General Assembly"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Auxerre",
+          "Marseille"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Karol Kucera",
+          "Michael Chang"
+        ],
+        "LOC": [
+          "Slovakia",
+          "U.S."
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Colorado"
+        ],
+        "ORG": [
+          "Colorado Christian Home"
+        ],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "AL"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "BRATISLAVA"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Lotte"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": [
+          "WORLD SUPERBIKE CHAMPIONSHIP"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Davey Johnson"
+        ],
+        "LOC": [],
+        "ORG": [
+          "Baltimore Orioles",
+          "Seattle Mariners"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Brann"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Waqar Younis"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [
+          "ORVIETO"
+        ],
+        "LOC": [
+          "Italy"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "A. Giles",
+          "T. Munton"
+        ],
+        "LOC": [
+          "Worcester",
+          "Warwickshire"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Guerrero"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Gencor Ltd"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Mideast",
+          "South Korea"
+        ],
+        "ORG": [
+          "Samsung"
+        ],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "British Masters"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Reuters"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "ENGLAND",
+          "PAKISTAN"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Davis Love"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Ukraine"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Kenneth Eriksson"
+        ],
+        "LOC": [
+          "Sweden"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Aegon",
+          "Paribas"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "JOHANNESBURG"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Rotherham",
+          "Blackpool"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Clinton"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "JERUSALEM"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [
+          "News Corp"
+        ],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Suwon"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": [
+          "French"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "D. Millns"
+        ],
+        "LOC": [
+          "Leicester",
+          "Somerset",
+          "Leicestershire"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Prodi",
+          "Suleyman Demirel",
+          "Tansu Ciller",
+          "Akbel"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "COLORADO",
+          "Cincinnati"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Scorpion"
+        ],
+        "MISC": []
+      }
+    },
+    null,
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Boston",
+          "CALIFORNIA"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "PRETORIA",
+          "South Africa"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Croatia"
+        ],
+        "ORG": [
+          "central bank"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Nawaz Sharif",
+          "Benazir Bhutto"
+        ],
+        "LOC": [
+          "Pakistan"
+        ],
+        "ORG": [
+          "Pakistan People 's Party"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Terence"
+        ],
+        "LOC": [
+          "Burundi"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Halifax"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Peter Pieters",
+          "Tomas Post"
+        ],
+        "LOC": [
+          "Netherlands"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "CDU"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Haitai"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "BOGOTA"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    null,
+    null,
+    {
+      "entities": {
+        "PER": [
+          "Glafcos Xenos"
+        ],
+        "LOC": [
+          "Cyprus",
+          "Larnaca airport"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Hong Kong"
+        ],
+        "ORG": [
+          "Central Moneymarkets Unit"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Romania"
+        ],
+        "ORG": [],
+        "MISC": [
+          "Hungarian"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Steve Brown"
+        ],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": [
+          "Buducnost"
+        ]
+      }
+    },
+    null,
+    {
+      "entities": {
+        "PER": [
+          "Stevanin"
+        ],
+        "LOC": [
+          "Verona"
+        ],
+        "ORG": [],
+        "MISC": [
+          "Austrian"
+        ]
+      }
+    },
+    null,
+    null,
+    {
+      "entities": {
+        "PER": [
+          "Kuchma"
+        ],
+        "LOC": [
+          "Russia"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "elapsed_seconds": 17.94229791703401,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 321
+    },
+    {
+      "elapsed_seconds": 21.48370929196244,
+      "method": "pydantic_parse",
+      "prompt_tokens": 413,
+      "completion_tokens": 390
+    },
+    {
+      "elapsed_seconds": 23.768903792020865,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 494
+    },
+    {
+      "elapsed_seconds": 14.296088042028714,
+      "method": "pydantic_parse",
+      "prompt_tokens": 407,
+      "completion_tokens": 298
+    },
+    {
+      "elapsed_seconds": 19.2671038749977,
+      "method": "pydantic_parse",
+      "prompt_tokens": 398,
+      "completion_tokens": 411
+    },
+    {
+      "elapsed_seconds": 23.003789916983806,
+      "method": "pydantic_parse",
+      "prompt_tokens": 413,
+      "completion_tokens": 488
+    },
+    {
+      "elapsed_seconds": 13.608256167033687,
+      "method": "pydantic_parse",
+      "prompt_tokens": 398,
+      "completion_tokens": 287
+    },
+    null,
+    {
+      "elapsed_seconds": 20.00419258303009,
+      "method": "pydantic_parse",
+      "prompt_tokens": 455,
+      "completion_tokens": 431
+    },
+    {
+      "elapsed_seconds": 16.92081620800309,
+      "method": "pydantic_parse",
+      "prompt_tokens": 406,
+      "completion_tokens": 369
+    },
+    {
+      "elapsed_seconds": 15.365147375036031,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 334
+    },
+    {
+      "elapsed_seconds": 17.97388616600074,
+      "method": "pydantic_parse",
+      "prompt_tokens": 405,
+      "completion_tokens": 390
+    },
+    {
+      "elapsed_seconds": 15.181331374973524,
+      "method": "pydantic_parse",
+      "prompt_tokens": 390,
+      "completion_tokens": 331
+    },
+    {
+      "elapsed_seconds": 13.43120429199189,
+      "method": "pydantic_parse",
+      "prompt_tokens": 402,
+      "completion_tokens": 292
+    },
+    null,
+    {
+      "elapsed_seconds": 15.442900584021118,
+      "method": "pydantic_parse",
+      "prompt_tokens": 397,
+      "completion_tokens": 343
+    },
+    {
+      "elapsed_seconds": 21.230194333009422,
+      "method": "pydantic_parse",
+      "prompt_tokens": 412,
+      "completion_tokens": 467
+    },
+    {
+      "elapsed_seconds": 23.36027250002371,
+      "method": "pydantic_parse",
+      "prompt_tokens": 397,
+      "completion_tokens": 499
+    },
+    {
+      "elapsed_seconds": 16.28522116696695,
+      "method": "pydantic_parse",
+      "prompt_tokens": 395,
+      "completion_tokens": 346
+    },
+    {
+      "elapsed_seconds": 16.752462709031533,
+      "method": "pydantic_parse",
+      "prompt_tokens": 424,
+      "completion_tokens": 358
+    },
+    {
+      "elapsed_seconds": 13.64475629205117,
+      "method": "pydantic_parse",
+      "prompt_tokens": 404,
+      "completion_tokens": 296
+    },
+    {
+      "elapsed_seconds": 17.323209750000387,
+      "method": "pydantic_parse",
+      "prompt_tokens": 406,
+      "completion_tokens": 373
+    },
+    null,
+    {
+      "elapsed_seconds": 15.851089875039179,
+      "method": "pydantic_parse",
+      "prompt_tokens": 413,
+      "completion_tokens": 342
+    },
+    {
+      "elapsed_seconds": 20.564730915997643,
+      "method": "pydantic_parse",
+      "prompt_tokens": 406,
+      "completion_tokens": 446
+    },
+    {
+      "elapsed_seconds": 20.347740125027485,
+      "method": "pydantic_parse",
+      "prompt_tokens": 415,
+      "completion_tokens": 437
+    },
+    {
+      "elapsed_seconds": 15.006137749995105,
+      "method": "pydantic_parse",
+      "prompt_tokens": 415,
+      "completion_tokens": 322
+    },
+    null,
+    {
+      "elapsed_seconds": 19.089388708001934,
+      "method": "pydantic_parse",
+      "prompt_tokens": 430,
+      "completion_tokens": 418
+    },
+    {
+      "elapsed_seconds": 14.737324958958197,
+      "method": "pydantic_parse",
+      "prompt_tokens": 396,
+      "completion_tokens": 317
+    },
+    {
+      "elapsed_seconds": 20.52659316698555,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 443
+    },
+    null,
+    {
+      "elapsed_seconds": 13.994339625001885,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 302
+    },
+    {
+      "elapsed_seconds": 15.466749750019517,
+      "method": "pydantic_parse",
+      "prompt_tokens": 413,
+      "completion_tokens": 333
+    },
+    {
+      "elapsed_seconds": 17.058330708998255,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 368
+    },
+    {
+      "elapsed_seconds": 14.451935416960623,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 311
+    },
+    {
+      "elapsed_seconds": 20.07308516599005,
+      "method": "pydantic_parse",
+      "prompt_tokens": 416,
+      "completion_tokens": 433
+    },
+    {
+      "elapsed_seconds": 15.945062458049506,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 342
+    },
+    null,
+    {
+      "elapsed_seconds": 14.834721792023629,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 322
+    },
+    {
+      "elapsed_seconds": 19.410927708027884,
+      "method": "pydantic_parse",
+      "prompt_tokens": 426,
+      "completion_tokens": 418
+    },
+    {
+      "elapsed_seconds": 14.926110291969962,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 318
+    },
+    {
+      "elapsed_seconds": 20.490162207977846,
+      "method": "pydantic_parse",
+      "prompt_tokens": 426,
+      "completion_tokens": 437
+    },
+    {
+      "elapsed_seconds": 19.870066832983866,
+      "method": "pydantic_parse",
+      "prompt_tokens": 425,
+      "completion_tokens": 423
+    },
+    {
+      "elapsed_seconds": 23.67379599995911,
+      "method": "pydantic_parse",
+      "prompt_tokens": 396,
+      "completion_tokens": 506
+    },
+    {
+      "elapsed_seconds": 12.855200082994998,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 277
+    },
+    {
+      "elapsed_seconds": 14.499645375006367,
+      "method": "pydantic_parse",
+      "prompt_tokens": 395,
+      "completion_tokens": 310
+    },
+    {
+      "elapsed_seconds": 16.3901112920139,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 353
+    },
+    {
+      "elapsed_seconds": 19.246318000019528,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 412
+    },
+    {
+      "elapsed_seconds": 21.246085666993167,
+      "method": "pydantic_parse",
+      "prompt_tokens": 417,
+      "completion_tokens": 451
+    },
+    {
+      "elapsed_seconds": 16.481691458960995,
+      "method": "pydantic_parse",
+      "prompt_tokens": 422,
+      "completion_tokens": 350
+    },
+    {
+      "elapsed_seconds": 20.13867570797447,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 430
+    },
+    {
+      "elapsed_seconds": 15.358216834021732,
+      "method": "pydantic_parse",
+      "prompt_tokens": 390,
+      "completion_tokens": 324
+    },
+    {
+      "elapsed_seconds": 22.13476491702022,
+      "method": "pydantic_parse",
+      "prompt_tokens": 425,
+      "completion_tokens": 470
+    },
+    {
+      "elapsed_seconds": 20.37006649997784,
+      "method": "pydantic_parse",
+      "prompt_tokens": 389,
+      "completion_tokens": 438
+    },
+    null,
+    {
+      "elapsed_seconds": 13.648508457990829,
+      "method": "pydantic_parse",
+      "prompt_tokens": 389,
+      "completion_tokens": 298
+    },
+    {
+      "elapsed_seconds": 13.878774000040721,
+      "method": "pydantic_parse",
+      "prompt_tokens": 388,
+      "completion_tokens": 297
+    },
+    {
+      "elapsed_seconds": 16.370191416004673,
+      "method": "pydantic_parse",
+      "prompt_tokens": 401,
+      "completion_tokens": 353
+    },
+    null,
+    {
+      "elapsed_seconds": 19.805867124989163,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 429
+    },
+    {
+      "elapsed_seconds": 20.927324249991216,
+      "method": "pydantic_parse",
+      "prompt_tokens": 398,
+      "completion_tokens": 454
+    },
+    {
+      "elapsed_seconds": 18.864390790986363,
+      "method": "pydantic_parse",
+      "prompt_tokens": 412,
+      "completion_tokens": 400
+    },
+    {
+      "elapsed_seconds": 15.686192375025712,
+      "method": "pydantic_parse",
+      "prompt_tokens": 405,
+      "completion_tokens": 337
+    },
+    {
+      "elapsed_seconds": 16.281465666019358,
+      "method": "pydantic_parse",
+      "prompt_tokens": 406,
+      "completion_tokens": 346
+    },
+    {
+      "elapsed_seconds": 13.209229917032644,
+      "method": "pydantic_parse",
+      "prompt_tokens": 406,
+      "completion_tokens": 286
+    },
+    null,
+    {
+      "elapsed_seconds": 18.9197786670411,
+      "method": "pydantic_parse",
+      "prompt_tokens": 401,
+      "completion_tokens": 413
+    },
+    {
+      "elapsed_seconds": 19.147284749953542,
+      "method": "pydantic_parse",
+      "prompt_tokens": 412,
+      "completion_tokens": 413
+    },
+    {
+      "elapsed_seconds": 18.405625957995653,
+      "method": "pydantic_parse",
+      "prompt_tokens": 411,
+      "completion_tokens": 397
+    },
+    {
+      "elapsed_seconds": 19.219381666975096,
+      "method": "pydantic_parse",
+      "prompt_tokens": 417,
+      "completion_tokens": 416
+    },
+    {
+      "elapsed_seconds": 21.14364604098955,
+      "method": "pydantic_parse",
+      "prompt_tokens": 408,
+      "completion_tokens": 457
+    },
+    null,
+    {
+      "elapsed_seconds": 14.20677083299961,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 310
+    },
+    {
+      "elapsed_seconds": 23.114692709001247,
+      "method": "pydantic_parse",
+      "prompt_tokens": 395,
+      "completion_tokens": 503
+    },
+    {
+      "elapsed_seconds": 14.138356708048377,
+      "method": "pydantic_parse",
+      "prompt_tokens": 409,
+      "completion_tokens": 300
+    },
+    {
+      "elapsed_seconds": 18.091853542020544,
+      "method": "pydantic_parse",
+      "prompt_tokens": 423,
+      "completion_tokens": 391
+    },
+    {
+      "elapsed_seconds": 17.695313750009518,
+      "method": "pydantic_parse",
+      "prompt_tokens": 398,
+      "completion_tokens": 385
+    },
+    {
+      "elapsed_seconds": 15.452466500049923,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 334
+    },
+    {
+      "elapsed_seconds": 11.252961583028082,
+      "method": "pydantic_parse",
+      "prompt_tokens": 386,
+      "completion_tokens": 242
+    },
+    {
+      "elapsed_seconds": 14.0387159580132,
+      "method": "pydantic_parse",
+      "prompt_tokens": 401,
+      "completion_tokens": 304
+    },
+    {
+      "elapsed_seconds": 11.86846158298431,
+      "method": "pydantic_parse",
+      "prompt_tokens": 390,
+      "completion_tokens": 255
+    },
+    {
+      "elapsed_seconds": 16.4095710410038,
+      "method": "pydantic_parse",
+      "prompt_tokens": 403,
+      "completion_tokens": 351
+    },
+    {
+      "elapsed_seconds": 10.18913029198302,
+      "method": "pydantic_parse",
+      "prompt_tokens": 391,
+      "completion_tokens": 219
+    },
+    {
+      "elapsed_seconds": 18.90952525002649,
+      "method": "pydantic_parse",
+      "prompt_tokens": 430,
+      "completion_tokens": 407
+    },
+    {
+      "elapsed_seconds": 22.483168667007703,
+      "method": "pydantic_parse",
+      "prompt_tokens": 407,
+      "completion_tokens": 484
+    },
+    null,
+    {
+      "elapsed_seconds": 22.3303523749928,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 484
+    },
+    {
+      "elapsed_seconds": 15.244838832993992,
+      "method": "pydantic_parse",
+      "prompt_tokens": 396,
+      "completion_tokens": 331
+    },
+    {
+      "elapsed_seconds": 14.096159291977528,
+      "method": "pydantic_parse",
+      "prompt_tokens": 401,
+      "completion_tokens": 304
+    },
+    null,
+    {
+      "elapsed_seconds": 17.900336708000395,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 388
+    },
+    {
+      "elapsed_seconds": 14.34441300004255,
+      "method": "pydantic_parse",
+      "prompt_tokens": 388,
+      "completion_tokens": 314
+    },
+    {
+      "elapsed_seconds": 15.21597295801621,
+      "method": "pydantic_parse",
+      "prompt_tokens": 412,
+      "completion_tokens": 323
+    },
+    {
+      "elapsed_seconds": 13.926179707981646,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 297
+    },
+    {
+      "elapsed_seconds": 12.283422417007387,
+      "method": "pydantic_parse",
+      "prompt_tokens": 390,
+      "completion_tokens": 266
+    },
+    {
+      "elapsed_seconds": 22.710801875044126,
+      "method": "pydantic_parse",
+      "prompt_tokens": 423,
+      "completion_tokens": 495
+    },
+    null,
+    {
+      "elapsed_seconds": 16.6972859170055,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 363
+    },
+    {
+      "elapsed_seconds": 22.27858245896641,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 486
+    },
+    {
+      "elapsed_seconds": 14.23735949996626,
+      "method": "pydantic_parse",
+      "prompt_tokens": 408,
+      "completion_tokens": 304
+    },
+    {
+      "elapsed_seconds": 23.68496783397859,
+      "method": "pydantic_parse",
+      "prompt_tokens": 417,
+      "completion_tokens": 510
+    },
+    {
+      "elapsed_seconds": 13.268711209006142,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 287
+    },
+    {
+      "elapsed_seconds": 22.14952712500235,
+      "method": "pydantic_parse",
+      "prompt_tokens": 408,
+      "completion_tokens": 480
+    },
+    null,
+    {
+      "elapsed_seconds": 13.617409791972023,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 294
+    },
+    {
+      "elapsed_seconds": 18.15054208395304,
+      "method": "pydantic_parse",
+      "prompt_tokens": 415,
+      "completion_tokens": 392
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 19.12687683297554,
+      "method": "pydantic_parse",
+      "prompt_tokens": 391,
+      "completion_tokens": 413
+    },
+    {
+      "elapsed_seconds": 19.830988957954105,
+      "method": "pydantic_parse",
+      "prompt_tokens": 413,
+      "completion_tokens": 430
+    },
+    {
+      "elapsed_seconds": 15.371944457991049,
+      "method": "pydantic_parse",
+      "prompt_tokens": 402,
+      "completion_tokens": 334
+    },
+    {
+      "elapsed_seconds": 19.786363458028063,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 411
+    },
+    {
+      "elapsed_seconds": 24.786576415994205,
+      "method": "pydantic_parse",
+      "prompt_tokens": 412,
+      "completion_tokens": 507
+    },
+    {
+      "elapsed_seconds": 23.720407707965933,
+      "method": "pydantic_parse",
+      "prompt_tokens": 418,
+      "completion_tokens": 470
+    },
+    {
+      "elapsed_seconds": 16.105206249980256,
+      "method": "pydantic_parse",
+      "prompt_tokens": 408,
+      "completion_tokens": 312
+    },
+    {
+      "elapsed_seconds": 22.19410700001754,
+      "method": "pydantic_parse",
+      "prompt_tokens": 405,
+      "completion_tokens": 475
+    },
+    {
+      "elapsed_seconds": 18.698303333017975,
+      "method": "pydantic_parse",
+      "prompt_tokens": 413,
+      "completion_tokens": 402
+    },
+    {
+      "elapsed_seconds": 13.364384707994759,
+      "method": "pydantic_parse",
+      "prompt_tokens": 389,
+      "completion_tokens": 287
+    },
+    null,
+    {
+      "elapsed_seconds": 11.873753375024535,
+      "method": "pydantic_parse",
+      "prompt_tokens": 401,
+      "completion_tokens": 249
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 12.241501207987312,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 271
+    },
+    null,
+    {
+      "elapsed_seconds": 15.878749915980734,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 365
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 20.79978929203935,
+      "method": "pydantic_parse",
+      "prompt_tokens": 414,
+      "completion_tokens": 511
+    },
+    {
+      "elapsed_seconds": 12.38349808298517,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 304
+    },
+    {
+      "elapsed_seconds": 14.782911832968239,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 367
+    },
+    {
+      "elapsed_seconds": 18.068708042032085,
+      "method": "pydantic_parse",
+      "prompt_tokens": 412,
+      "completion_tokens": 422
+    },
+    {
+      "elapsed_seconds": 17.453543167037424,
+      "method": "pydantic_parse",
+      "prompt_tokens": 407,
+      "completion_tokens": 408
+    },
+    {
+      "elapsed_seconds": 15.17366824997589,
+      "method": "pydantic_parse",
+      "prompt_tokens": 402,
+      "completion_tokens": 385
+    },
+    null,
+    {
+      "elapsed_seconds": 16.015927125001326,
+      "method": "pydantic_parse",
+      "prompt_tokens": 435,
+      "completion_tokens": 415
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 14.742586541979108,
+      "method": "pydantic_parse",
+      "prompt_tokens": 404,
+      "completion_tokens": 369
+    },
+    {
+      "elapsed_seconds": 10.27853899996262,
+      "method": "pydantic_parse",
+      "prompt_tokens": 402,
+      "completion_tokens": 347
+    }
+  ],
+  "errors": [
+    {
+      "local_index": 7,
+      "sentence": "The television , which did not say when the security forces killed the rebels , said the four arrested men confessed details of the assassination of the French Roman Catholic Bishop Pierre Claverie .",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': ['Pierre Claverie'], 'MISC': ['French']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 14,
+      "sentence": "The former Soviet Union was displaced as contractor of the potentially rich Shabwa oilfields once it collapsed in December 1991 , according to the International Petroleum Encyclopedia .",
+      "error": "1 validation error for GroupedNERResult\n  Input should be a valid dictionary or instance of GroupedNERResult [type=model_type, input_value=[], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.14/v/model_type"
+    },
+    {
+      "local_index": 22,
+      "sentence": "This , according to the trader , was typical of month-end position-squaring -- and the fact that a stronger U.S. currency helps limit some foreign exchange losses .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 27,
+      "sentence": "-- Tokyo Commodities Desk -LPR- 81-3 3432 6179 -RPR-",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': [], 'LOC': ['Toky...okyo Commodities Desk']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 31,
+      "sentence": "Sion 9 3 4 2 13 11 13",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"PER\": [\\\\n    \"\\'')"
+    },
+    {
+      "local_index": 38,
+      "sentence": "They said soldiers stole a gold necklace and about $ 2,000 in Israeli currency from an elderly woman and her daughter-in-law while rummaging through their luggage before destroying family shacks and animal barns .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 55,
+      "sentence": "Shares in Mentmore Abbey edged two pence higher to 81.5 pence , valuing the group at just under 30 million stg .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 59,
+      "sentence": "Clinton made a triumphant Irish tour to back a Northern Ireland peace process but was forced to drop Ballybunion from a packed schedule at the last minute .",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': ['Clinton'], 'LOC...reland', 'Ballybunion']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 66,
+      "sentence": "They said they were ready to force their way back across post-war ethnic lines to Serb-held Doboj , one of several towns where NATO troops fear violence involving refugees determined to vote where they once lived .",
+      "error": "1 validation error for GroupedNERResult\n  Input should be a valid dictionary or instance of GroupedNERResult [type=model_type, input_value=[], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.14/v/model_type"
+    },
+    {
+      "local_index": 72,
+      "sentence": "The government has been trying to phase out huge subsidies to the farm sector , and in a move back to pre-Soviet days has given up to 50 hectares -LPR- 124 acres -RPR- of land to some 36,000 private farmers willing to go it alone .",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': [], 'LOC': [], 'ORG': [], 'MISC': []}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 86,
+      "sentence": "Prime Minister Benjamin Netanyahu 's government , which took office in June , has said it will not allow the Authority , set up under a 1993 interim peace deal to control parts of the Gaza Strip and West Bank , to operate in Jerusalem .",
+      "error": "1 validation error for GroupedNERResult\n  Input should be a valid dictionary or instance of GroupedNERResult [type=model_type, input_value=['Benjamin Netanyahu'], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.14/v/model_type"
+    },
+    {
+      "local_index": 90,
+      "sentence": "He told Reuters the reason was his own front-page editorial , entitled \" A Chronic Mental Illness \" in which he attacks compliant Arab leaders for serving U.S. and Israeli interests .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"PER\\'')"
+    },
+    {
+      "local_index": 97,
+      "sentence": "1. Tommi Makinen -LPR- Finland -RPR- Mitsubishi Lancer 4 hours 4 minutes",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': ['Tommi Makinen']...: ['Mitsubishi Lancer']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 104,
+      "sentence": "Rugby league-Australian rugby league results .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 107,
+      "sentence": "\" The message that we sent to -LPR- Syrian President Hafez al- -RPR- Assad is that Israel is ready at any time without preconditions to enter peace negotiations , \" Israeli Foreign Minister David Levy told Israel Radio in an interview .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 108,
+      "sentence": "Algerian security forces said on Friday three women and two children were killed and five people wounded when a home-made bomb exploded at a market in the coastal town of Bou Haroun , 65 km -LPR- 40 miles -RPR- west of Algiers .",
+      "error": "1 validation error for GroupedNERResult\n  Input should be a valid dictionary or instance of GroupedNERResult [type=model_type, input_value=[], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.14/v/model_type"
+    },
+    {
+      "local_index": 119,
+      "sentence": "Brazil is likely to turn Sao Paulo state bank Banespa into a federal bank in a prior step to privatization , according to unnamed government sources , O Globo daily said .",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': [], 'LOC': ['Braz... 'O Globo'], 'MISC': []}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 121,
+      "sentence": "Nottingham Forest 1 Middlesbrough 1",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': [], 'LOC': [], 'O...lesbrough'], 'MISC': []}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 122,
+      "sentence": "Named \" Nirmal Hriday \" -LPR- Tender Heart -RPR- , it was the first of a chain of 150 homes for dying , destitute people , admitting nearly 18,000 a year .",
+      "error": "1 validation error for GroupedNERResult\n  Input should be a valid dictionary or instance of GroupedNERResult [type=model_type, input_value=[], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.14/v/model_type"
+    },
+    {
+      "local_index": 124,
+      "sentence": "Stefan Edberg -LPR- Sweden -RPR- vs. 5 - Richard Krajicek -LPR- Netherlands -RPR-",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': ['Stefan Edberg',...Sweden', 'Netherlands']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 126,
+      "sentence": "SOCCER - MARCELO HAT-TRICK KEEPS PSV AT TOP OF DUTCH LEAGUE .",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': ['MARCELO'], 'ORG...'LOC': ['DUTCH LEAGUE']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 127,
+      "sentence": "Mia , a father of five children , had a restaurant business in a London suburb .",
+      "error": "1 validation error for GroupedNERResult\n  Input should be a valid dictionary or instance of GroupedNERResult [type=model_type, input_value=['Mia'], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.14/v/model_type"
+    },
+    {
+      "local_index": 134,
+      "sentence": "Bochum 1 -LPR- Jack 66th minute -RPR- Arminia Bielefeld 1 -LPR- Molata 59th -RPR- .",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': ['Jack', 'Molata'...: ['Arminia Bielefeld']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 136,
+      "sentence": "Nearly two-thirds of the people surveyed thought the government was dishonest and insincere , and 65 percent blamed the government 's poor performance for the country 's economic slowdown .",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': [], 'LOC': [], 'ORG': [], 'MISC': []}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    },
+    {
+      "local_index": 137,
+      "sentence": "In Bistrita : Gloria Bistrita -LPR- Romania -RPR- 2 Valletta -LPR- Malta -RPR- 1",
+      "error": "1 validation error for GroupedNERResult\nentities\n  Field required [type=missing, input_value={'PER': ['Gloria Bistrita...', 'Valletta', 'Malta']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.14/v/missing"
+    }
+  ],
+  "elapsed_seconds": 1557.758294083993
+}

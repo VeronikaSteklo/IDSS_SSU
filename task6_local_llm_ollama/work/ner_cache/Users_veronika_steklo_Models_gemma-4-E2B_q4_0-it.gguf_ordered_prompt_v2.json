@@ -1,0 +1,1755 @@
+{
+  "predictions": [
+    {
+      "entities": [
+        {
+          "text": "Meknes",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Iceland",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Bank of Finland",
+          "type": "ORG"
+        },
+        {
+          "text": "Finland",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Yuuchi Takeda",
+          "type": "PER"
+        },
+        {
+          "text": "Japan",
+          "type": "LOC"
+        },
+        {
+          "text": "Honda",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Daniel Vacek",
+          "type": "PER"
+        },
+        {
+          "text": "Czech Republic",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Giunluca Gorini",
+          "type": "PER"
+        },
+        {
+          "text": "Italy",
+          "type": "LOC"
+        },
+        {
+          "text": "Aki",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "QADISSIYA",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Zurich",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": []
+    },
+    null,
+    null,
+    {
+      "entities": [
+        {
+          "text": "Dunfermline",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Simon Brown",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "U.S.",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Mother Teresa",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Wolfgang Kreissig",
+          "type": "PER"
+        },
+        {
+          "text": "Germany",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Jose Maria Canizares",
+          "type": "PER"
+        },
+        {
+          "text": "Spain",
+          "type": "LOC"
+        },
+        {
+          "text": "Paul Lawrie",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Hwa Kay",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "British",
+          "type": "MISC"
+        },
+        {
+          "text": "Chechnya",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "CINCINNATI",
+          "type": "LOC"
+        },
+        {
+          "text": "COLORADO",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Seychelles",
+          "type": "LOC"
+        },
+        {
+          "text": "African Nations Cup",
+          "type": "MISC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "COLOMBO",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "New York",
+          "type": "LOC"
+        },
+        {
+          "text": "Dow Jones",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "MAJOR LEAGUE",
+          "type": "ORG"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Essex",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Newcrest Mining Ltd",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Worcestershire",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "entities": [
+        {
+          "text": "Salisbury",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "MORAV.CHEMIC",
+          "type": "ORG"
+        },
+        {
+          "text": "ZAV",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "GACETA DE LOS NEGOCIOS",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Choudhury",
+          "type": "PER"
+        },
+        {
+          "text": "U.N. General Assembly",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Auxerre",
+          "type": "LOC"
+        },
+        {
+          "text": "Marseille",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Colorado",
+          "type": "LOC"
+        },
+        {
+          "text": "Christian Home",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Mentmore Abbey",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "AL",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "BRATISLAVA",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Lotte",
+          "type": "ORG"
+        }
+      ]
+    },
+    null,
+    null,
+    {
+      "entities": [
+        {
+          "text": "Brann",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "U.S.",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Waqar Younis",
+          "type": "PER"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "ORVIETO",
+          "type": "PER"
+        },
+        {
+          "text": "Italy",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Guerrero",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Gencor Ltd",
+          "type": "ORG"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": []
+    },
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Reuters",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "ENGLAND",
+          "type": "LOC"
+        },
+        {
+          "text": "PAKISTAN",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Davis Love",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Ukraine",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    null,
+    {
+      "entities": [
+        {
+          "text": "Aegon",
+          "type": "PER"
+        },
+        {
+          "text": "Paribas",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "JOHANNESBURG",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Reuters",
+          "type": "ORG"
+        },
+        {
+          "text": "Arab",
+          "type": "MISC"
+        },
+        {
+          "text": "U.S.",
+          "type": "LOC"
+        },
+        {
+          "text": "Israeli",
+          "type": "MISC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Rotherham",
+          "type": "LOC"
+        },
+        {
+          "text": "Blackpool",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Clinton",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "JERUSALEM",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "News Corp",
+          "type": "ORG"
+        },
+        {
+          "text": "U.S.",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Suwon",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "French",
+          "type": "MISC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Prodi",
+          "type": "PER"
+        },
+        {
+          "text": "Suleyman Demirel",
+          "type": "PER"
+        },
+        {
+          "text": "Tansu Ciller",
+          "type": "PER"
+        },
+        {
+          "text": "Akbel",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Australian",
+          "type": "MISC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "COLORADO",
+          "type": "LOC"
+        },
+        {
+          "text": "Cincinnati",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Scorpion",
+          "type": "ORG"
+        }
+      ]
+    },
+    null,
+    null,
+    {
+      "entities": [
+        {
+          "text": "Boston",
+          "type": "LOC"
+        },
+        {
+          "text": "CALIFORNIA",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "PRETORIA",
+          "type": "LOC"
+        },
+        {
+          "text": "South Africa",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Croatia",
+          "type": "LOC"
+        },
+        {
+          "text": "central bank",
+          "type": "ORG"
+        }
+      ]
+    },
+    null,
+    null,
+    {
+      "entities": [
+        {
+          "text": "Halifax",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Peter Pieters",
+          "type": "PER"
+        },
+        {
+          "text": "Tomas Post",
+          "type": "PER"
+        },
+        {
+          "text": "Netherlands",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "CDU",
+          "type": "ORG"
+        }
+      ]
+    },
+    null,
+    null,
+    {
+      "entities": [
+        {
+          "text": "Haitai",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Nottingham Forest",
+          "type": "ORG"
+        },
+        {
+          "text": "Middlesbrough",
+          "type": "ORG"
+        }
+      ]
+    },
+    null,
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "BOGOTA",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "MARCELO",
+          "type": "PER"
+        },
+        {
+          "text": "PSV",
+          "type": "ORG"
+        },
+        {
+          "text": "DUTCH LEAGUE",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Mia",
+          "type": "PER"
+        },
+        {
+          "text": "London",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Glafcos Xenos",
+          "type": "PER"
+        },
+        {
+          "text": "Cyprus",
+          "type": "LOC"
+        },
+        {
+          "text": "Larnaca",
+          "type": "LOC"
+        }
+      ]
+    },
+    {
+      "entities": []
+    },
+    {
+      "entities": [
+        {
+          "text": "Hong Kong",
+          "type": "LOC"
+        },
+        {
+          "text": "Central Moneymarkets Unit",
+          "type": "ORG"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Romania",
+          "type": "LOC"
+        },
+        {
+          "text": "Hungarian",
+          "type": "MISC"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "text": "Steve Brown",
+          "type": "PER"
+        },
+        {
+          "text": "U.S.",
+          "type": "LOC"
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "entities": []
+    },
+    null,
+    {
+      "entities": [
+        {
+          "text": "Russia",
+          "type": "LOC"
+        },
+        {
+          "text": "Kuchma",
+          "type": "PER"
+        }
+      ]
+    },
+    {
+      "entities": []
+    }
+  ],
+  "metadata": [
+    {
+      "elapsed_seconds": 12.36578016600106,
+      "method": "pydantic_parse",
+      "prompt_tokens": 479,
+      "completion_tokens": 284
+    },
+    {
+      "elapsed_seconds": 20.928009500028566,
+      "method": "pydantic_parse",
+      "prompt_tokens": 498,
+      "completion_tokens": 497
+    },
+    null,
+    {
+      "elapsed_seconds": 17.016987458977383,
+      "method": "pydantic_parse",
+      "prompt_tokens": 492,
+      "completion_tokens": 401
+    },
+    {
+      "elapsed_seconds": 18.37865795905236,
+      "method": "pydantic_parse",
+      "prompt_tokens": 483,
+      "completion_tokens": 466
+    },
+    {
+      "elapsed_seconds": 38.697926499997266,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=498, total_tokens=1010, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 517,
+      "completion_tokens": 491
+    },
+    {
+      "elapsed_seconds": 8.216298707993701,
+      "method": "pydantic_parse",
+      "prompt_tokens": 483,
+      "completion_tokens": 215
+    },
+    null,
+    {
+      "elapsed_seconds": 37.85708208399592,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=540, total_tokens=1052, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 559,
+      "completion_tokens": 481
+    },
+    null,
+    {
+      "elapsed_seconds": 12.981132375018205,
+      "method": "pydantic_parse",
+      "prompt_tokens": 477,
+      "completion_tokens": 338
+    },
+    {
+      "elapsed_seconds": 18.90966479195049,
+      "method": "pydantic_parse",
+      "prompt_tokens": 490,
+      "completion_tokens": 505
+    },
+    {
+      "elapsed_seconds": 12.663453957997262,
+      "method": "pydantic_parse",
+      "prompt_tokens": 475,
+      "completion_tokens": 344
+    },
+    {
+      "elapsed_seconds": 11.25510624999879,
+      "method": "pydantic_parse",
+      "prompt_tokens": 487,
+      "completion_tokens": 292
+    },
+    null,
+    {
+      "elapsed_seconds": 11.731910416972823,
+      "method": "pydantic_parse",
+      "prompt_tokens": 482,
+      "completion_tokens": 310
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 33.80861712503247,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=480, total_tokens=992, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 499,
+      "completion_tokens": 381
+    },
+    {
+      "elapsed_seconds": 11.887809959007427,
+      "method": "pydantic_parse",
+      "prompt_tokens": 509,
+      "completion_tokens": 314
+    },
+    {
+      "elapsed_seconds": 13.012203874997795,
+      "method": "pydantic_parse",
+      "prompt_tokens": 489,
+      "completion_tokens": 344
+    },
+    {
+      "elapsed_seconds": 12.936829417012632,
+      "method": "pydantic_parse",
+      "prompt_tokens": 491,
+      "completion_tokens": 340
+    },
+    {
+      "elapsed_seconds": 16.79847704200074,
+      "method": "pydantic_parse",
+      "prompt_tokens": 506,
+      "completion_tokens": 442
+    },
+    {
+      "elapsed_seconds": 13.401583875005599,
+      "method": "pydantic_parse",
+      "prompt_tokens": 498,
+      "completion_tokens": 357
+    },
+    {
+      "elapsed_seconds": 16.97538912500022,
+      "method": "pydantic_parse",
+      "prompt_tokens": 491,
+      "completion_tokens": 450
+    },
+    {
+      "elapsed_seconds": 37.40119995799614,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=500, total_tokens=1012, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 519,
+      "completion_tokens": 480
+    },
+    {
+      "elapsed_seconds": 13.944903124996927,
+      "method": "pydantic_parse",
+      "prompt_tokens": 500,
+      "completion_tokens": 368
+    },
+    null,
+    {
+      "elapsed_seconds": 14.589455624984112,
+      "method": "pydantic_parse",
+      "prompt_tokens": 515,
+      "completion_tokens": 385
+    },
+    {
+      "elapsed_seconds": 11.731523416994605,
+      "method": "pydantic_parse",
+      "prompt_tokens": 481,
+      "completion_tokens": 312
+    },
+    {
+      "elapsed_seconds": 17.431117666012142,
+      "method": "pydantic_parse",
+      "prompt_tokens": 479,
+      "completion_tokens": 462
+    },
+    null,
+    {
+      "elapsed_seconds": 11.934000374982134,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 316
+    },
+    {
+      "elapsed_seconds": 37.90565883304225,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=498, total_tokens=1010, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 517,
+      "completion_tokens": 497
+    },
+    {
+      "elapsed_seconds": 13.055624000029638,
+      "method": "pydantic_parse",
+      "prompt_tokens": 484,
+      "completion_tokens": 346
+    },
+    {
+      "elapsed_seconds": 14.33415954199154,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 378
+    },
+    {
+      "elapsed_seconds": 18.589172124979086,
+      "method": "pydantic_parse",
+      "prompt_tokens": 501,
+      "completion_tokens": 493
+    },
+    {
+      "elapsed_seconds": 16.65011562500149,
+      "method": "pydantic_parse",
+      "prompt_tokens": 485,
+      "completion_tokens": 448
+    },
+    null,
+    {
+      "elapsed_seconds": 8.060984834039118,
+      "method": "pydantic_parse",
+      "prompt_tokens": 477,
+      "completion_tokens": 216
+    },
+    {
+      "elapsed_seconds": 16.423596124979667,
+      "method": "pydantic_parse",
+      "prompt_tokens": 511,
+      "completion_tokens": 440
+    },
+    {
+      "elapsed_seconds": 18.867937458038796,
+      "method": "pydantic_parse",
+      "prompt_tokens": 479,
+      "completion_tokens": 505
+    },
+    null,
+    null,
+    null,
+    {
+      "elapsed_seconds": 13.370653833029792,
+      "method": "pydantic_parse",
+      "prompt_tokens": 477,
+      "completion_tokens": 358
+    },
+    {
+      "elapsed_seconds": 6.703729209024459,
+      "method": "pydantic_parse",
+      "prompt_tokens": 480,
+      "completion_tokens": 178
+    },
+    {
+      "elapsed_seconds": 37.088592000014614,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=479, total_tokens=991, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 498,
+      "completion_tokens": 491
+    },
+    {
+      "elapsed_seconds": 16.87486095901113,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 455
+    },
+    {
+      "elapsed_seconds": 17.35126920795301,
+      "method": "pydantic_parse",
+      "prompt_tokens": 502,
+      "completion_tokens": 466
+    },
+    {
+      "elapsed_seconds": 12.461996541998815,
+      "method": "pydantic_parse",
+      "prompt_tokens": 507,
+      "completion_tokens": 333
+    },
+    {
+      "elapsed_seconds": 17.136817166989204,
+      "method": "pydantic_parse",
+      "prompt_tokens": 477,
+      "completion_tokens": 460
+    },
+    {
+      "elapsed_seconds": 8.803149291023146,
+      "method": "pydantic_parse",
+      "prompt_tokens": 475,
+      "completion_tokens": 237
+    },
+    null,
+    {
+      "elapsed_seconds": 15.354097416973673,
+      "method": "pydantic_parse",
+      "prompt_tokens": 474,
+      "completion_tokens": 413
+    },
+    {
+      "elapsed_seconds": 35.53433774999576,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=500, total_tokens=1012, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 519,
+      "completion_tokens": 447
+    },
+    {
+      "elapsed_seconds": 11.134891958034132,
+      "method": "pydantic_parse",
+      "prompt_tokens": 474,
+      "completion_tokens": 298
+    },
+    {
+      "elapsed_seconds": 13.848063167009968,
+      "method": "pydantic_parse",
+      "prompt_tokens": 473,
+      "completion_tokens": 372
+    },
+    {
+      "elapsed_seconds": 10.61726012500003,
+      "method": "pydantic_parse",
+      "prompt_tokens": 486,
+      "completion_tokens": 283
+    },
+    null,
+    {
+      "elapsed_seconds": 16.512439124984667,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 446
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 37.71049879101338,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=490, total_tokens=1002, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 509,
+      "completion_tokens": 509
+    },
+    {
+      "elapsed_seconds": 17.33350391703425,
+      "method": "pydantic_parse",
+      "prompt_tokens": 491,
+      "completion_tokens": 469
+    },
+    {
+      "elapsed_seconds": 11.590206958004273,
+      "method": "pydantic_parse",
+      "prompt_tokens": 491,
+      "completion_tokens": 309
+    },
+    null,
+    {
+      "elapsed_seconds": 12.326480792020448,
+      "method": "pydantic_parse",
+      "prompt_tokens": 486,
+      "completion_tokens": 328
+    },
+    null,
+    {
+      "elapsed_seconds": 16.0649869160261,
+      "method": "pydantic_parse",
+      "prompt_tokens": 496,
+      "completion_tokens": 452
+    },
+    {
+      "elapsed_seconds": 17.725680665986147,
+      "method": "pydantic_parse",
+      "prompt_tokens": 502,
+      "completion_tokens": 481
+    },
+    null,
+    {
+      "elapsed_seconds": 18.831033333030064,
+      "method": "pydantic_parse",
+      "prompt_tokens": 535,
+      "completion_tokens": 503
+    },
+    {
+      "elapsed_seconds": 11.212688624975272,
+      "method": "pydantic_parse",
+      "prompt_tokens": 485,
+      "completion_tokens": 298
+    },
+    null,
+    {
+      "elapsed_seconds": 14.18069391703466,
+      "method": "pydantic_parse",
+      "prompt_tokens": 494,
+      "completion_tokens": 380
+    },
+    {
+      "elapsed_seconds": 15.498222916969098,
+      "method": "pydantic_parse",
+      "prompt_tokens": 508,
+      "completion_tokens": 419
+    },
+    {
+      "elapsed_seconds": 18.82073733297875,
+      "method": "pydantic_parse",
+      "prompt_tokens": 483,
+      "completion_tokens": 508
+    },
+    {
+      "elapsed_seconds": 12.50826525001321,
+      "method": "pydantic_parse",
+      "prompt_tokens": 477,
+      "completion_tokens": 338
+    },
+    {
+      "elapsed_seconds": 11.322135624999646,
+      "method": "pydantic_parse",
+      "prompt_tokens": 471,
+      "completion_tokens": 306
+    },
+    {
+      "elapsed_seconds": 9.448447167000268,
+      "method": "pydantic_parse",
+      "prompt_tokens": 486,
+      "completion_tokens": 254
+    },
+    {
+      "elapsed_seconds": 9.104791457997635,
+      "method": "pydantic_parse",
+      "prompt_tokens": 475,
+      "completion_tokens": 245
+    },
+    {
+      "elapsed_seconds": 12.17075799999293,
+      "method": "pydantic_parse",
+      "prompt_tokens": 488,
+      "completion_tokens": 330
+    },
+    {
+      "elapsed_seconds": 11.480530291970354,
+      "method": "pydantic_parse",
+      "prompt_tokens": 476,
+      "completion_tokens": 309
+    },
+    {
+      "elapsed_seconds": 35.42374641599599,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=515, total_tokens=1027, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 534,
+      "completion_tokens": 447
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 16.530185415991582,
+      "method": "pydantic_parse",
+      "prompt_tokens": 479,
+      "completion_tokens": 447
+    },
+    {
+      "elapsed_seconds": 12.272535707976203,
+      "method": "pydantic_parse",
+      "prompt_tokens": 481,
+      "completion_tokens": 333
+    },
+    {
+      "elapsed_seconds": 14.784804166993126,
+      "method": "pydantic_parse",
+      "prompt_tokens": 486,
+      "completion_tokens": 399
+    },
+    {
+      "elapsed_seconds": 37.73557133297436,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=507, total_tokens=1019, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 526,
+      "completion_tokens": 511
+    },
+    {
+      "elapsed_seconds": 14.296886041993275,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 386
+    },
+    {
+      "elapsed_seconds": 8.61630391702056,
+      "method": "pydantic_parse",
+      "prompt_tokens": 473,
+      "completion_tokens": 232
+    },
+    {
+      "elapsed_seconds": 14.473312041023746,
+      "method": "pydantic_parse",
+      "prompt_tokens": 497,
+      "completion_tokens": 389
+    },
+    {
+      "elapsed_seconds": 7.962611082999501,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 211
+    },
+    {
+      "elapsed_seconds": 14.371687625010964,
+      "method": "pydantic_parse",
+      "prompt_tokens": 475,
+      "completion_tokens": 387
+    },
+    {
+      "elapsed_seconds": 37.767314917000476,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=508, total_tokens=1020, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 527,
+      "completion_tokens": 506
+    },
+    null,
+    {
+      "elapsed_seconds": 17.17095254198648,
+      "method": "pydantic_parse",
+      "prompt_tokens": 484,
+      "completion_tokens": 460
+    },
+    {
+      "elapsed_seconds": 37.824255874962546,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=478, total_tokens=990, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 497,
+      "completion_tokens": 502
+    },
+    {
+      "elapsed_seconds": 12.073010916996282,
+      "method": "pydantic_parse",
+      "prompt_tokens": 493,
+      "completion_tokens": 320
+    },
+    null,
+    {
+      "elapsed_seconds": 9.438328166026622,
+      "method": "pydantic_parse",
+      "prompt_tokens": 479,
+      "completion_tokens": 253
+    },
+    {
+      "elapsed_seconds": 18.548422417021357,
+      "method": "pydantic_parse",
+      "prompt_tokens": 493,
+      "completion_tokens": 500
+    },
+    {
+      "elapsed_seconds": 29.940418916987255,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=479, total_tokens=991, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 498,
+      "completion_tokens": 297
+    },
+    {
+      "elapsed_seconds": 16.36323891603388,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 443
+    },
+    {
+      "elapsed_seconds": 18.943598707963247,
+      "method": "pydantic_parse",
+      "prompt_tokens": 500,
+      "completion_tokens": 511
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 14.494960875017568,
+      "method": "pydantic_parse",
+      "prompt_tokens": 476,
+      "completion_tokens": 383
+    },
+    {
+      "elapsed_seconds": 15.106740791990887,
+      "method": "pydantic_parse",
+      "prompt_tokens": 498,
+      "completion_tokens": 400
+    },
+    {
+      "elapsed_seconds": 14.51626387500437,
+      "method": "pydantic_parse",
+      "prompt_tokens": 487,
+      "completion_tokens": 386
+    },
+    {
+      "elapsed_seconds": 16.95181754103396,
+      "method": "pydantic_parse",
+      "prompt_tokens": 485,
+      "completion_tokens": 451
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 17.05505591700785,
+      "method": "pydantic_parse",
+      "prompt_tokens": 493,
+      "completion_tokens": 450
+    },
+    {
+      "elapsed_seconds": 36.61483004101319,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=490, total_tokens=1002, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 509,
+      "completion_tokens": 470
+    },
+    {
+      "elapsed_seconds": 15.68903795798542,
+      "method": "pydantic_parse",
+      "prompt_tokens": 498,
+      "completion_tokens": 421
+    },
+    null,
+    null,
+    {
+      "elapsed_seconds": 12.4275507919956,
+      "method": "pydantic_parse",
+      "prompt_tokens": 486,
+      "completion_tokens": 336
+    },
+    {
+      "elapsed_seconds": 15.270748000009917,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 414
+    },
+    null,
+    {
+      "elapsed_seconds": 9.7864943749737,
+      "method": "pydantic_parse",
+      "prompt_tokens": 478,
+      "completion_tokens": 265
+    },
+    null,
+    {
+      "elapsed_seconds": 12.626607084006537,
+      "method": "pydantic_parse",
+      "prompt_tokens": 484,
+      "completion_tokens": 346
+    },
+    {
+      "elapsed_seconds": 35.65947524999501,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=494, total_tokens=1006, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 513,
+      "completion_tokens": 456
+    },
+    {
+      "elapsed_seconds": 12.512414500000887,
+      "method": "pydantic_parse",
+      "prompt_tokens": 487,
+      "completion_tokens": 341
+    },
+    {
+      "elapsed_seconds": 35.49933808401693,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=499, total_tokens=1011, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 518,
+      "completion_tokens": 453
+    },
+    {
+      "elapsed_seconds": 7.072423124976922,
+      "method": "pydantic_parse",
+      "prompt_tokens": 484,
+      "completion_tokens": 189
+    },
+    {
+      "elapsed_seconds": 35.48667304200353,
+      "method": "json_mode_fallback",
+      "parse_error": "LengthFinishReasonError('Could not parse response content as the length limit was reached - CompletionUsage(completion_tokens=512, prompt_tokens=484, total_tokens=996, completion_tokens_details=None, prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cache_write_tokens=None, cached_tokens=453))')",
+      "prompt_tokens": 503,
+      "completion_tokens": 450
+    },
+    {
+      "elapsed_seconds": 17.291925791010726,
+      "method": "pydantic_parse",
+      "prompt_tokens": 497,
+      "completion_tokens": 468
+    },
+    {
+      "elapsed_seconds": 16.90005337499315,
+      "method": "pydantic_parse",
+      "prompt_tokens": 492,
+      "completion_tokens": 458
+    },
+    null,
+    null,
+    null,
+    {
+      "elapsed_seconds": 14.520239458011929,
+      "method": "pydantic_parse",
+      "prompt_tokens": 507,
+      "completion_tokens": 392
+    },
+    null,
+    {
+      "elapsed_seconds": 18.438794291985687,
+      "method": "pydantic_parse",
+      "prompt_tokens": 489,
+      "completion_tokens": 502
+    },
+    {
+      "elapsed_seconds": 10.15317879198119,
+      "method": "pydantic_parse",
+      "prompt_tokens": 487,
+      "completion_tokens": 360
+    }
+  ],
+  "errors": [
+    {
+      "local_index": 2,
+      "sentence": "Chile 's ENAP buys Oriente , Escravos crude for Oct .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Chile\",\\\\n      \"type\": \"LOC\"\\\\n    },\\\\n    {\\\\n      \"text\\'')"
+    },
+    {
+      "local_index": 7,
+      "sentence": "The television , which did not say when the security forces killed the rebels , said the four arrested men confessed details of the assassination of the French Roman Catholic Bishop Pierre Claverie .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\'')"
+    },
+    {
+      "local_index": 9,
+      "sentence": "-- Steve Weizman , Copenhagen newsroom +45 33969650",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 14,
+      "sentence": "The former Soviet Union was displaced as contractor of the potentially rich Shabwa oilfields once it collapsed in December 1991 , according to the International Petroleum Encyclopedia .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 16,
+      "sentence": "U.S. Open officials managed to insult most of the male tennis players last week with their controversial handling of the seeding and draw .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 17,
+      "sentence": "Legia Warsaw 3 GKS Belchatow 2",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 27,
+      "sentence": "-- Tokyo Commodities Desk -LPR- 81-3 3432 6179 -RPR-",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Tokyo\",\\'')"
+    },
+    {
+      "local_index": 31,
+      "sentence": "Sion 9 3 4 2 13 11 13",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 38,
+      "sentence": "They said soldiers stole a gold necklace and about $ 2,000 in Israeli currency from an elderly woman and her daughter-in-law while rummaging through their luggage before destroying family shacks and animal barns .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"\\'')"
+    },
+    {
+      "local_index": 42,
+      "sentence": "A message from the West this week from U.S. President Bill Clinton congratulated Ukraine on the anniversary , promising to support market reforms and praising Ukraine as a \" stabilising factor \" in a united Europe .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 43,
+      "sentence": "Petra Langrova -LPR- Czech Republic -RPR- beat Naoko Sawamatsu -LPR- Japan -RPR- 6- 4 3-6 7-5",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 44,
+      "sentence": "Shrewsbury v Brentford , Walsall v Wrexham .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 53,
+      "sentence": "Karol Kucera -LPR- Slovakia -RPR- beat 1 - Michael Chang -LPR- U.S. -RPR- 6-4 6-4",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 59,
+      "sentence": "Clinton made a triumphant Irish tour to back a Northern Ireland peace process but was forced to drop Ballybunion from a packed schedule at the last minute .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 61,
+      "sentence": "MOTORCYCLING - WORLD SUPERBIKE CHAMPIONSHIP RESULTS .",
+      "error": "1 validation error for OrderedNERResult\n  Input should be a valid dictionary or instance of OrderedNERResult [type=model_type, input_value=[{'text': 'WORLD SUPERBIK...ONSHIP', 'type': 'ORG'}], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.14/v/model_type"
+    },
+    {
+      "local_index": 62,
+      "sentence": "Baltimore Orioles manager Davey Johnson will miss Thursday night 's game against the Seattle Mariners after being admitted to a hospital with an irregular heartbeat .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 66,
+      "sentence": "They said they were ready to force their way back across post-war ethnic lines to Serb-held Doboj , one of several towns where NATO troops fear violence involving refugees determined to vote where they once lived .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 68,
+      "sentence": "At Worcester : Warwickshire 310 -LPR- A. Giles 83 , T. Munton 54 not",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Worcester\",\\\\n      \"type\": \"LOC\"\\\\n    },\\\\n    {\\\\n      \"text\": \"Warwickshire\",\\\\n      \"type\": \"LOC\"\\\\n    },\\\\n    {\\'')"
+    },
+    {
+      "local_index": 71,
+      "sentence": "Tenacity 70 24/08 Mideast / South Korea W145 Samsung .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Mideast\",\\\\n      \"type\": \"LOC\"\\\\n    },\\\\n    {\\'')"
+    },
+    {
+      "local_index": 74,
+      "sentence": "the third round of the British Masters on Friday :",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 85,
+      "sentence": "5. Kenneth Eriksson -LPR- Sweden -RPR- Subaru Impreza 2:39",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Kenneth Eriksson\",\\\\n      \"type\": \"PER\"\\\\n    },\\\\n    {\\\\n      \"text\\'')"
+    },
+    {
+      "local_index": 86,
+      "sentence": "Prime Minister Benjamin Netanyahu 's government , which took office in June , has said it will not allow the Authority , set up under a 1993 interim peace deal to control parts of the Gaza Strip and West Bank , to operate in Jerusalem .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 97,
+      "sentence": "1. Tommi Makinen -LPR- Finland -RPR- Mitsubishi Lancer 4 hours 4 minutes",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 101,
+      "sentence": "Leicester : Somerset 83 -LPR- D. Millns 4-35 -RPR- , Leicestershire 202-5",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Leicester\",\\\\n      \"type\": \"LOC\"\\\\n    },\\\\n    {\\\\n      \"text\": \"Somerset\",\\\\n      \"type\": \"LOC\"\\\\n    },\\\\n    {\\\\n      \"text\": \"D. Millns\",\\\\n      \"type\": \"PER\"\\\\n    },\\\\n    {\\\\n      \"text\": \"Leicestershire\",\\\\n      \"type\": \"\\'')"
+    },
+    {
+      "local_index": 107,
+      "sentence": "\" The message that we sent to -LPR- Syrian President Hafez al- -RPR- Assad is that Israel is ready at any time without preconditions to enter peace negotiations , \" Israeli Foreign Minister David Levy told Israel Radio in an interview .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 108,
+      "sentence": "Algerian security forces said on Friday three women and two children were killed and five people wounded when a home-made bomb exploded at a market in the coastal town of Bou Haroun , 65 km -LPR- 40 miles -RPR- west of Algiers .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"\\'')"
+    },
+    {
+      "local_index": 113,
+      "sentence": "- Opposition leader Nawaz Sharif renewed a pledge to oust the Pakistan People 's Party government headed by Prime Minister Benazir Bhutto .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Nawaz Sharif\",\\\\n      \"type\": \"PER\"\\\\n    },\\\\n    {\\\\n      \"text\": \"Pakistan People \\\\\\'s Party\",\\\\n      \"type\": \"ORG\"\\\\n    },\\\\n    {\\\\n      \"text\": \"Benazir Bhutto\",\\\\n      \"type\": \"PER\"\\\\n    },\\'')"
+    },
+    {
+      "local_index": 114,
+      "sentence": "\" These -LPR- African -RPR- brothers should have been the first to bind the wounds of Burundi , \" Terence said of the economic embargo . \"",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"African\",\\\\n      \"type\": \"MISC\"\\\\n    },\\\\n    {\\\\n      \"text\": \"Burundi\",\\\\n      \"type\": \"LOC\\'')"
+    },
+    {
+      "local_index": 118,
+      "sentence": "0-1 .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 119,
+      "sentence": "Brazil is likely to turn Sao Paulo state bank Banespa into a federal bank in a prior step to privatization , according to unnamed government sources , O Globo daily said .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\\\n      \"text\": \"Brazil\",\\\\n      \"type\": \"LOC\"\\\\n    },\\\\n    {\\\\n      \"text\":\\'')"
+    },
+    {
+      "local_index": 122,
+      "sentence": "Named \" Nirmal Hriday \" -LPR- Tender Heart -RPR- , it was the first of a chain of 150 homes for dying , destitute people , admitting nearly 18,000 a year .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 124,
+      "sentence": "Stefan Edberg -LPR- Sweden -RPR- vs. 5 - Richard Krajicek -LPR- Netherlands -RPR-",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 133,
+      "sentence": "Rad 1 Buducnost -LPR- P -RPR- 0",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 134,
+      "sentence": "Bochum 1 -LPR- Jack 66th minute -RPR- Arminia Bielefeld 1 -LPR- Molata 59th -RPR- .",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    },
+    {
+      "local_index": 135,
+      "sentence": "Stevanin , arrested in 1994 and jailed for three years for assaulting an Austrian prostitute , is accused of murdering five women , three of whose bodies were found near his villa outside Verona between July and December 1995 .",
+      "error": "ValueError('No valid JSON found in response: \\'{\\\\n  \"entities\": [\\\\n    {\\'')"
+    },
+    {
+      "local_index": 137,
+      "sentence": "In Bistrita : Gloria Bistrita -LPR- Romania -RPR- 2 Valletta -LPR- Malta -RPR- 1",
+      "error": "ValueError(\"No valid JSON found in response: ''\")"
+    }
+  ],
+  "elapsed_seconds": 1608.72215783305
+}

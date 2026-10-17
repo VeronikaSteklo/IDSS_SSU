@@ -1,0 +1,28 @@
+{
+  "extract": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "In a high-stakes investigation, you must extract all named entities from the following sentence using CoNLL-2003 types. The accuracy of your JSON output can mean the difference between solving a major case and failing to identify key individuals and locations. \n\nReturn one valid JSON object with keys PER, LOC, ORG, MISC; each value is a list\nof exact entity strings. PER=person names, LOC=geographical places, ORG=organizations,\nMISC=nationalities/ethnic or political groups/languages/events and other named entities\noutside the first three categories. Exclude dates, years, scores, ordinary nouns,\noccupations, titles, punctuation, and dataset markup. Never invent, expand, or duplicate\nentities. Copy exact spans from the sentence. Empty categories must be empty lists.\n\n{\n  \"PER\": [],\n  \"LOC\": [],\n  \"ORG\": [],\n  \"MISC\": []\n}",
+      "fields": [
+        {
+          "prefix": "Sentence:",
+          "description": "Original sentence from CoNLL-2003"
+        },
+        {
+          "prefix": "Entities Json:",
+          "description": "Valid JSON object: {\"PER\": [], \"LOC\": [], \"ORG\": [], \"MISC\": []}"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.11",
+      "dspy": "3.4.0",
+      "cloudpickle": "3.1"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+model,experiment,precision,recall,f1,tp,fp,fn,evaluated_sentences,elapsed_seconds,invalid_outputs
+/Users/veronika_steklo/Models/qwen2.5-7b-instruct-q3_k_m.gguf,Prompt v1 / grouped,0.35772357723577236,0.5714285714285714,0.44,132,237,99,140,476.2049055000534,0
+/Users/veronika_steklo/Models/qwen2.5-7b-instruct-q3_k_m.gguf,Prompt v2 / grouped,0.4945054945054945,0.5844155844155844,0.5357142857142858,135,138,96,140,503.7241657919949,0
+/Users/veronika_steklo/Models/qwen2.5-7b-instruct-q3_k_m.gguf,Prompt v2 / ordered,0.5545454545454546,0.5281385281385281,0.541019955654102,122,98,109,140,421.61004624998895,0
+/Users/veronika_steklo/Models/qwen2.5-7b-instruct-q3_k_m.gguf,DSPy MIPROv2 / grouped,0.5787037037037037,0.5411255411255411,0.5592841163310962,125,91,106,140,551.8036884170142,3
+/Users/veronika_steklo/Models/gemma-4-E2B_q4_0-it.gguf,Prompt v2 / grouped,0.6948051948051948,0.46320346320346323,0.5558441558441559,107,47,124,140,1557.758294083993,25
+/Users/veronika_steklo/Models/gemma-4-E2B_q4_0-it.gguf,Prompt v2 / ordered,0.6837606837606838,0.3463203463203463,0.4597701149425287,80,37,151,140,1608.72215783305,36

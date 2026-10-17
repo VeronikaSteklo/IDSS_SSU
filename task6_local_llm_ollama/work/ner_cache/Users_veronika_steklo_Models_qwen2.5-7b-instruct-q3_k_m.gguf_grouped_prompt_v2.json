@@ -1,0 +1,2425 @@
+{
+  "predictions": [
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Meknes"
+        ],
+        "ORG": [
+          "Sporting Sale"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Chile"
+        ],
+        "LOC": [
+          "ENAP",
+          "Oriente",
+          "Escravos",
+          "Oct."
+        ],
+        "ORG": [
+          "ENAP"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Iceland"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Bank of Finland"
+        ],
+        "ORG": [
+          "Bank of Finland"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Yuuchi Takeda"
+        ],
+        "LOC": [
+          "Japan"
+        ],
+        "ORG": [
+          "Honda"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Pierre Claverie"
+        ],
+        "LOC": [
+          "France"
+        ],
+        "ORG": [
+          "television"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Daniel Vacek"
+        ],
+        "LOC": [
+          "Czech Republic"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Steve Weizman"
+        ],
+        "LOC": [
+          "Copenhagen"
+        ],
+        "ORG": [
+          "newsroom"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": [
+          "Women 's singles"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Giunluca Gorini"
+        ],
+        "LOC": [
+          "Italy"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "QADISSIYA"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Zurich"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Soviet Union",
+          "Shabwa oilfields",
+          "International Petroleum Encyclopedia"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [
+          "U.S. Open"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Warsaw",
+          "Belchatow"
+        ],
+        "ORG": [
+          "Legia Warsaw",
+          "GKS Belchatow"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Hibernian",
+          "Dunfermline"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Simon Brown"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Mother Teresa"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Wolfgang Kreissig"
+        ],
+        "LOC": [
+          "Germany"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Jose Maria Canizares",
+          "Paul Lawrie"
+        ],
+        "LOC": [
+          "Spain"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Tokyo"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "the company"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Hwa Kay"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "British"
+        ],
+        "LOC": [
+          "Chechnya"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "CINCINNATI",
+          "COLORADO"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Seychelles",
+          "African Nations Cup"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "COLOMBO"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "New York"
+        ],
+        "ORG": [
+          "Dow Jones industrial average"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "MAJOR LEAGUE STANDINGS"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "soldiers",
+          "an elderly woman",
+          "her daughter-in-law"
+        ],
+        "LOC": [
+          "Israeli"
+        ],
+        "ORG": [],
+        "MISC": [
+          "family shacks",
+          "animal barns"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Essex"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Newcrest Mining Ltd"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Bill Clinton"
+        ],
+        "LOC": [
+          "Ukraine",
+          "United Europe"
+        ],
+        "ORG": [
+          "U.S. President"
+        ],
+        "MISC": [
+          "West",
+          "a stabilising factor"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Petra Langrova",
+          "Naoko Sawamatsu"
+        ],
+        "LOC": [
+          "Czech Republic",
+          "Japan"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Salisbury"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "MORAV.CHEMIC. ZAV."
+        ],
+        "ORG": [
+          "MORAV.CHEMIC. ZAV."
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "GACETA DE LOS NEGOCIOS"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Choudhury"
+        ],
+        "LOC": [
+          "U.N."
+        ],
+        "ORG": [
+          "U.N. General Assembly"
+        ],
+        "MISC": [
+          "41st session"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Auxerre",
+          "Marseille"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Karol Kucera",
+          "Michael Chang"
+        ],
+        "LOC": [
+          "Slovakia",
+          "U.S."
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Colorado"
+        ],
+        "ORG": [
+          "Colorado Christian Home"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Mentmore Abbey"
+        ],
+        "ORG": [],
+        "MISC": [
+          "30 million stg."
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Major League"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "AL"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "BRATISLAVA"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Clinton"
+        ],
+        "LOC": [
+          "Irish",
+          "Northern Ireland",
+          "Ballybunion"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Lotte"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": [
+          "WORLD SUPERBIKE CHAMPIONSHIP"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Davey Johnson"
+        ],
+        "LOC": [
+          "Baltimore",
+          "Seattle",
+          "Mariners",
+          "Orioles"
+        ],
+        "ORG": [
+          "Baltimore Orioles",
+          "Seattle Mariners"
+        ],
+        "MISC": [
+          "hospital"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Brann"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Waqar Younis"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Serb-held Doboj",
+          "Doboj",
+          "post-war ethnic lines",
+          "NATO troops",
+          "towns",
+          "Serb-held",
+          "Doboj"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Italy"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Worcester"
+        ],
+        "ORG": [
+          "Warwickshire"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Guerrero"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Gencor Ltd"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Mideast",
+          "South Korea"
+        ],
+        "ORG": [
+          "Samsung"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Soviet"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "British"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "one colleague"
+        ],
+        "LOC": [
+          "Reuters"
+        ],
+        "ORG": [
+          "Reuters"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "ENGLAND",
+          "PAKISTAN"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": [
+          "Women 's singles"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Ukraine"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Kenneth Eriksson"
+        ],
+        "LOC": [
+          "Sweden"
+        ],
+        "ORG": [
+          "Subaru Impreza"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Benjamin Netanyahu"
+        ],
+        "LOC": [
+          "Gaza Strip",
+          "West Bank",
+          "Jerusalem",
+          "Israel"
+        ],
+        "ORG": [
+          "Authority"
+        ],
+        "MISC": [
+          "1993 interim peace deal"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Aegon",
+          "Paribas"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "JOHANNESBURG"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Reuters"
+        ],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [
+          "Reuters"
+        ],
+        "MISC": [
+          "Arab leaders",
+          "A Chronic Mental Illness"
+        ]
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Rotherham",
+          "Blackpool"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Clinton"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "JERUSALEM"
+        ],
+        "ORG": [
+          "POST"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "News Corp",
+          "U.S."
+        ],
+        "ORG": [
+          "News Corp",
+          "book publishing division",
+          "U.S. magazines"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Tommi Makinen"
+        ],
+        "LOC": [
+          "Finland"
+        ],
+        "ORG": [
+          "Mitsubishi Lancer"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Suwon"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "French"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Leicester",
+          "Somerset",
+          "Leicestershire"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Suleyman Demirel",
+          "Tansu Ciller"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Australian"
+        ],
+        "ORG": [
+          "Rugby league",
+          "Australian rugby league"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "COLORADO"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Scorpion"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Hafez al- Assad",
+          "David Levy"
+        ],
+        "LOC": [
+          "Syria",
+          "Israel"
+        ],
+        "ORG": [
+          "Israel Radio"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Algerian",
+          "three women and two children",
+          "five people",
+          "Bou Haroun"
+        ],
+        "LOC": [
+          "Algeria",
+          "Bou Haroun",
+          "Algiers",
+          "coastal town of Bou Haroun",
+          "65 km -LPR- 40 miles -RPR- west of Algiers"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Boston",
+          "CALIFORNIA"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Pretoria",
+          "South Africa"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Croatia"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Nawaz Sharif",
+          "Benazir Bhutto"
+        ],
+        "LOC": [
+          "Pakistan"
+        ],
+        "ORG": [
+          "Pakistan People 's Party government",
+          "Pakistan People's Party"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Terence"
+        ],
+        "LOC": [
+          "Burundi"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Halifax"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Peter Pieters"
+        ],
+        "LOC": [
+          "Netherlands"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "CDU"
+        ],
+        "ORG": [
+          "industry source",
+          "heat exchanger"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Brazil",
+          "Sao Paulo",
+          "federal bank",
+          "unnamed government sources",
+          "O Globo daily"
+        ],
+        "ORG": [
+          "Banespa",
+          "sao paulo state bank",
+          "O Globo daily"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Nottingham Forest",
+          "Middlesbrough"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Nirmal Hriday"
+        ],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Stefan Edberg",
+          "Richard Krajicek"
+        ],
+        "LOC": [
+          "Sweden",
+          "Netherlands"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Bogota"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "MARCELO"
+        ],
+        "LOC": [
+          "PSV",
+          "DUTCH LEAGUE"
+        ],
+        "ORG": [
+          "PSV",
+          "DUTCH LEAGUE"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Mia"
+        ],
+        "LOC": [
+          "London"
+        ],
+        "ORG": [
+          "restaurant business"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Glafcos Xenos"
+        ],
+        "LOC": [
+          "Cyprus",
+          "Larnaca airport"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "company"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "Hong Kong",
+          "Central"
+        ],
+        "ORG": [
+          "Moneymarkets Unit"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Romania",
+          "Hungarian"
+        ],
+        "LOC": [
+          "Hungarian",
+          "Romania"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Steve Brown"
+        ],
+        "LOC": [
+          "U.S."
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [
+          "Buducnost"
+        ],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Jack",
+          "Molata"
+        ],
+        "LOC": [
+          "Bochum",
+          "Arminia Bielefeld",
+          "Bielefeld"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Stevanin",
+          "Austrian",
+          "Verona"
+        ],
+        "LOC": [
+          "Austria",
+          "Verona"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [
+          "government",
+          "country",
+          "government",
+          "country"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Gloria Bistrita"
+        ],
+        "LOC": [
+          "Bistrita",
+          "Romania",
+          "Valletta",
+          "Malta"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [
+          "Kuchma"
+        ],
+        "LOC": [
+          "Russia"
+        ],
+        "ORG": [],
+        "MISC": []
+      }
+    },
+    {
+      "entities": {
+        "PER": [],
+        "LOC": [],
+        "ORG": [],
+        "MISC": []
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "elapsed_seconds": 7.678567124996334,
+      "method": "pydantic_parse",
+      "prompt_tokens": 374,
+      "completion_tokens": 45
+    },
+    {
+      "elapsed_seconds": 6.023112667025998,
+      "method": "pydantic_parse",
+      "prompt_tokens": 391,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 9.578963833046146,
+      "method": "pydantic_parse",
+      "prompt_tokens": 382,
+      "completion_tokens": 59
+    },
+    {
+      "elapsed_seconds": 5.957212875015102,
+      "method": "pydantic_parse",
+      "prompt_tokens": 386,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 7.14693966699997,
+      "method": "pydantic_parse",
+      "prompt_tokens": 377,
+      "completion_tokens": 43
+    },
+    {
+      "elapsed_seconds": 7.508383541018702,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 45
+    },
+    {
+      "elapsed_seconds": 5.966651250026189,
+      "method": "pydantic_parse",
+      "prompt_tokens": 377,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 8.291128582961392,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 48
+    },
+    {
+      "elapsed_seconds": 7.637794625014067,
+      "method": "pydantic_parse",
+      "prompt_tokens": 435,
+      "completion_tokens": 44
+    },
+    {
+      "elapsed_seconds": 7.575399208988529,
+      "method": "pydantic_parse",
+      "prompt_tokens": 385,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 6.5515791670186445,
+      "method": "pydantic_parse",
+      "prompt_tokens": 371,
+      "completion_tokens": 40
+    },
+    {
+      "elapsed_seconds": 7.249665874987841,
+      "method": "pydantic_parse",
+      "prompt_tokens": 386,
+      "completion_tokens": 44
+    },
+    {
+      "elapsed_seconds": 4.558871540997643,
+      "method": "pydantic_parse",
+      "prompt_tokens": 369,
+      "completion_tokens": 28
+    },
+    {
+      "elapsed_seconds": 4.579110249993391,
+      "method": "pydantic_parse",
+      "prompt_tokens": 382,
+      "completion_tokens": 26
+    },
+    {
+      "elapsed_seconds": 8.524201375024859,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 52
+    },
+    {
+      "elapsed_seconds": 5.6999450830044225,
+      "method": "pydantic_parse",
+      "prompt_tokens": 378,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 7.082369500014465,
+      "method": "pydantic_parse",
+      "prompt_tokens": 390,
+      "completion_tokens": 44
+    },
+    {
+      "elapsed_seconds": 8.698601457988843,
+      "method": "pydantic_parse",
+      "prompt_tokens": 376,
+      "completion_tokens": 54
+    },
+    {
+      "elapsed_seconds": 7.71095099998638,
+      "method": "pydantic_parse",
+      "prompt_tokens": 375,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 5.948842834040988,
+      "method": "pydantic_parse",
+      "prompt_tokens": 404,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 5.862172583001666,
+      "method": "pydantic_parse",
+      "prompt_tokens": 384,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 6.4775026249699295,
+      "method": "pydantic_parse",
+      "prompt_tokens": 385,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 7.002925208013039,
+      "method": "pydantic_parse",
+      "prompt_tokens": 398,
+      "completion_tokens": 40
+    },
+    {
+      "elapsed_seconds": 6.547034332994372,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 7.443363582948223,
+      "method": "pydantic_parse",
+      "prompt_tokens": 385,
+      "completion_tokens": 44
+    },
+    {
+      "elapsed_seconds": 8.330183332960587,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 48
+    },
+    {
+      "elapsed_seconds": 6.177921875030734,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 4.1713689580210485,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 25
+    },
+    {
+      "elapsed_seconds": 6.560873666021507,
+      "method": "pydantic_parse",
+      "prompt_tokens": 407,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 6.831072625005618,
+      "method": "pydantic_parse",
+      "prompt_tokens": 375,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 4.761125125049148,
+      "method": "pydantic_parse",
+      "prompt_tokens": 373,
+      "completion_tokens": 28
+    },
+    {
+      "elapsed_seconds": 5.753770457988139,
+      "method": "pydantic_parse",
+      "prompt_tokens": 383,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 7.751364125055261,
+      "method": "pydantic_parse",
+      "prompt_tokens": 373,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 7.63570995896589,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 4.573368500045035,
+      "method": "pydantic_parse",
+      "prompt_tokens": 379,
+      "completion_tokens": 27
+    },
+    {
+      "elapsed_seconds": 5.964832958998159,
+      "method": "pydantic_parse",
+      "prompt_tokens": 372,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 5.376850000000559,
+      "method": "pydantic_parse",
+      "prompt_tokens": 395,
+      "completion_tokens": 31
+    },
+    {
+      "elapsed_seconds": 7.751073040999472,
+      "method": "pydantic_parse",
+      "prompt_tokens": 385,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 10.043122375034727,
+      "method": "pydantic_parse",
+      "prompt_tokens": 409,
+      "completion_tokens": 61
+    },
+    {
+      "elapsed_seconds": 6.5194626249722205,
+      "method": "pydantic_parse",
+      "prompt_tokens": 372,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 6.781016875000205,
+      "method": "pydantic_parse",
+      "prompt_tokens": 405,
+      "completion_tokens": 40
+    },
+    {
+      "elapsed_seconds": 5.921120249957312,
+      "method": "pydantic_parse",
+      "prompt_tokens": 375,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 9.936346791975666,
+      "method": "pydantic_parse",
+      "prompt_tokens": 405,
+      "completion_tokens": 58
+    },
+    {
+      "elapsed_seconds": 8.948615542030893,
+      "method": "pydantic_parse",
+      "prompt_tokens": 407,
+      "completion_tokens": 55
+    },
+    {
+      "elapsed_seconds": 5.924698417016771,
+      "method": "pydantic_parse",
+      "prompt_tokens": 380,
+      "completion_tokens": 36
+    },
+    {
+      "elapsed_seconds": 6.292073582997546,
+      "method": "pydantic_parse",
+      "prompt_tokens": 371,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 5.827763542009052,
+      "method": "pydantic_parse",
+      "prompt_tokens": 374,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 9.186987209017389,
+      "method": "pydantic_parse",
+      "prompt_tokens": 374,
+      "completion_tokens": 57
+    },
+    {
+      "elapsed_seconds": 7.362599332991522,
+      "method": "pydantic_parse",
+      "prompt_tokens": 372,
+      "completion_tokens": 44
+    },
+    {
+      "elapsed_seconds": 9.250815792009234,
+      "method": "pydantic_parse",
+      "prompt_tokens": 395,
+      "completion_tokens": 55
+    },
+    {
+      "elapsed_seconds": 5.907406500016805,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 7.267573999997694,
+      "method": "pydantic_parse",
+      "prompt_tokens": 371,
+      "completion_tokens": 42
+    },
+    {
+      "elapsed_seconds": 5.883084666973446,
+      "method": "pydantic_parse",
+      "prompt_tokens": 369,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 9.371685791993514,
+      "method": "pydantic_parse",
+      "prompt_tokens": 403,
+      "completion_tokens": 54
+    },
+    {
+      "elapsed_seconds": 6.627353541960474,
+      "method": "pydantic_parse",
+      "prompt_tokens": 368,
+      "completion_tokens": 41
+    },
+    {
+      "elapsed_seconds": 7.628317957976833,
+      "method": "pydantic_parse",
+      "prompt_tokens": 397,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 6.100382749980781,
+      "method": "pydantic_parse",
+      "prompt_tokens": 368,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 6.291144000017084,
+      "method": "pydantic_parse",
+      "prompt_tokens": 367,
+      "completion_tokens": 37
+    },
+    {
+      "elapsed_seconds": 7.339541333029047,
+      "method": "pydantic_parse",
+      "prompt_tokens": 380,
+      "completion_tokens": 41
+    },
+    {
+      "elapsed_seconds": 8.482530666980892,
+      "method": "pydantic_parse",
+      "prompt_tokens": 396,
+      "completion_tokens": 50
+    },
+    {
+      "elapsed_seconds": 6.144380833022296,
+      "method": "pydantic_parse",
+      "prompt_tokens": 372,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 7.608027332986239,
+      "method": "pydantic_parse",
+      "prompt_tokens": 380,
+      "completion_tokens": 45
+    },
+    {
+      "elapsed_seconds": 10.582406916015316,
+      "method": "pydantic_parse",
+      "prompt_tokens": 393,
+      "completion_tokens": 64
+    },
+    {
+      "elapsed_seconds": 6.33694537502015,
+      "method": "pydantic_parse",
+      "prompt_tokens": 384,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 6.485289332980756,
+      "method": "pydantic_parse",
+      "prompt_tokens": 384,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 7.0328667080029845,
+      "method": "pydantic_parse",
+      "prompt_tokens": 385,
+      "completion_tokens": 41
+    },
+    {
+      "elapsed_seconds": 12.06611483299639,
+      "method": "pydantic_parse",
+      "prompt_tokens": 405,
+      "completion_tokens": 71
+    },
+    {
+      "elapsed_seconds": 6.019041333987843,
+      "method": "pydantic_parse",
+      "prompt_tokens": 380,
+      "completion_tokens": 37
+    },
+    {
+      "elapsed_seconds": 7.349926624970976,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 43
+    },
+    {
+      "elapsed_seconds": 6.701657040975988,
+      "method": "pydantic_parse",
+      "prompt_tokens": 390,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 6.893530209024902,
+      "method": "pydantic_parse",
+      "prompt_tokens": 398,
+      "completion_tokens": 40
+    },
+    {
+      "elapsed_seconds": 6.998801000008825,
+      "method": "pydantic_parse",
+      "prompt_tokens": 387,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 6.931500707985833,
+      "method": "pydantic_parse",
+      "prompt_tokens": 430,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 5.823137416969985,
+      "method": "pydantic_parse",
+      "prompt_tokens": 379,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 6.625107500003651,
+      "method": "pydantic_parse",
+      "prompt_tokens": 374,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 6.24213712499477,
+      "method": "pydantic_parse",
+      "prompt_tokens": 388,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 6.060148250020575,
+      "method": "pydantic_parse",
+      "prompt_tokens": 403,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 7.369010458001867,
+      "method": "pydantic_parse",
+      "prompt_tokens": 382,
+      "completion_tokens": 45
+    },
+    {
+      "elapsed_seconds": 6.7535396249732,
+      "method": "pydantic_parse",
+      "prompt_tokens": 371,
+      "completion_tokens": 40
+    },
+    {
+      "elapsed_seconds": 6.013065458042547,
+      "method": "pydantic_parse",
+      "prompt_tokens": 366,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 5.860942958039232,
+      "method": "pydantic_parse",
+      "prompt_tokens": 380,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 5.853036708023865,
+      "method": "pydantic_parse",
+      "prompt_tokens": 369,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 6.146072416973766,
+      "method": "pydantic_parse",
+      "prompt_tokens": 382,
+      "completion_tokens": 36
+    },
+    {
+      "elapsed_seconds": 6.075314791989513,
+      "method": "pydantic_parse",
+      "prompt_tokens": 370,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 6.61645554198185,
+      "method": "pydantic_parse",
+      "prompt_tokens": 413,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 7.2629025420174,
+      "method": "pydantic_parse",
+      "prompt_tokens": 387,
+      "completion_tokens": 42
+    },
+    {
+      "elapsed_seconds": 11.270417082996573,
+      "method": "pydantic_parse",
+      "prompt_tokens": 415,
+      "completion_tokens": 64
+    },
+    {
+      "elapsed_seconds": 7.61029308300931,
+      "method": "pydantic_parse",
+      "prompt_tokens": 376,
+      "completion_tokens": 44
+    },
+    {
+      "elapsed_seconds": 6.21598758402979,
+      "method": "pydantic_parse",
+      "prompt_tokens": 375,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 7.773394666030072,
+      "method": "pydantic_parse",
+      "prompt_tokens": 381,
+      "completion_tokens": 42
+    },
+    {
+      "elapsed_seconds": 9.795567624969408,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 54
+    },
+    {
+      "elapsed_seconds": 5.8732020409661345,
+      "method": "pydantic_parse",
+      "prompt_tokens": 373,
+      "completion_tokens": 34
+    },
+    {
+      "elapsed_seconds": 6.275867583986837,
+      "method": "pydantic_parse",
+      "prompt_tokens": 367,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 6.508496499969624,
+      "method": "pydantic_parse",
+      "prompt_tokens": 391,
+      "completion_tokens": 37
+    },
+    {
+      "elapsed_seconds": 5.941033334005624,
+      "method": "pydantic_parse",
+      "prompt_tokens": 373,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 7.100089917017613,
+      "method": "pydantic_parse",
+      "prompt_tokens": 369,
+      "completion_tokens": 42
+    },
+    {
+      "elapsed_seconds": 9.466789999976754,
+      "method": "pydantic_parse",
+      "prompt_tokens": 402,
+      "completion_tokens": 57
+    },
+    {
+      "elapsed_seconds": 7.9581490000127815,
+      "method": "pydantic_parse",
+      "prompt_tokens": 388,
+      "completion_tokens": 49
+    },
+    {
+      "elapsed_seconds": 6.412738999992143,
+      "method": "pydantic_parse",
+      "prompt_tokens": 378,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 3.985081667022314,
+      "method": "pydantic_parse",
+      "prompt_tokens": 373,
+      "completion_tokens": 24
+    },
+    {
+      "elapsed_seconds": 6.043776042002719,
+      "method": "pydantic_parse",
+      "prompt_tokens": 387,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 8.040542250033468,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 48
+    },
+    {
+      "elapsed_seconds": 5.873778000008315,
+      "method": "pydantic_parse",
+      "prompt_tokens": 373,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 8.524836624972522,
+      "method": "pydantic_parse",
+      "prompt_tokens": 390,
+      "completion_tokens": 52
+    },
+    {
+      "elapsed_seconds": 7.722225583973341,
+      "method": "pydantic_parse",
+      "prompt_tokens": 374,
+      "completion_tokens": 47
+    },
+    {
+      "elapsed_seconds": 6.567334374994971,
+      "method": "pydantic_parse",
+      "prompt_tokens": 372,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 6.687802749976981,
+      "method": "pydantic_parse",
+      "prompt_tokens": 395,
+      "completion_tokens": 38
+    },
+    {
+      "elapsed_seconds": 9.373135125031695,
+      "method": "pydantic_parse",
+      "prompt_tokens": 416,
+      "completion_tokens": 55
+    },
+    {
+      "elapsed_seconds": 16.705100458988454,
+      "method": "pydantic_parse",
+      "prompt_tokens": 422,
+      "completion_tokens": 101
+    },
+    {
+      "elapsed_seconds": 4.854915875010192,
+      "method": "pydantic_parse",
+      "prompt_tokens": 373,
+      "completion_tokens": 30
+    },
+    {
+      "elapsed_seconds": 6.479699874995276,
+      "method": "pydantic_parse",
+      "prompt_tokens": 392,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 7.3140182080096565,
+      "method": "pydantic_parse",
+      "prompt_tokens": 381,
+      "completion_tokens": 43
+    },
+    {
+      "elapsed_seconds": 6.7301252909819596,
+      "method": "pydantic_parse",
+      "prompt_tokens": 380,
+      "completion_tokens": 39
+    },
+    {
+      "elapsed_seconds": 10.824193999986164,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 63
+    },
+    {
+      "elapsed_seconds": 7.059161707991734,
+      "method": "pydantic_parse",
+      "prompt_tokens": 399,
+      "completion_tokens": 42
+    },
+    {
+      "elapsed_seconds": 4.3017170000239275,
+      "method": "pydantic_parse",
+      "prompt_tokens": 387,
+      "completion_tokens": 25
+    },
+    {
+      "elapsed_seconds": 7.179605500015896,
+      "method": "pydantic_parse",
+      "prompt_tokens": 384,
+      "completion_tokens": 42
+    },
+    {
+      "elapsed_seconds": 7.786582791013643,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 6.051147749996744,
+      "method": "pydantic_parse",
+      "prompt_tokens": 368,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 11.031862457981333,
+      "method": "pydantic_parse",
+      "prompt_tokens": 400,
+      "completion_tokens": 66
+    },
+    {
+      "elapsed_seconds": 5.680964875034988,
+      "method": "pydantic_parse",
+      "prompt_tokens": 380,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 8.043009792047087,
+      "method": "pydantic_parse",
+      "prompt_tokens": 375,
+      "completion_tokens": 47
+    },
+    {
+      "elapsed_seconds": 7.043943792057689,
+      "method": "pydantic_parse",
+      "prompt_tokens": 416,
+      "completion_tokens": 41
+    },
+    {
+      "elapsed_seconds": 6.0499755830387585,
+      "method": "pydantic_parse",
+      "prompt_tokens": 372,
+      "completion_tokens": 35
+    },
+    {
+      "elapsed_seconds": 9.029006666969508,
+      "method": "pydantic_parse",
+      "prompt_tokens": 397,
+      "completion_tokens": 54
+    },
+    {
+      "elapsed_seconds": 4.666847250016872,
+      "method": "pydantic_parse",
+      "prompt_tokens": 378,
+      "completion_tokens": 26
+    },
+    {
+      "elapsed_seconds": 11.058612082968466,
+      "method": "pydantic_parse",
+      "prompt_tokens": 391,
+      "completion_tokens": 63
+    },
+    {
+      "elapsed_seconds": 7.382453083002474,
+      "method": "pydantic_parse",
+      "prompt_tokens": 382,
+      "completion_tokens": 45
+    },
+    {
+      "elapsed_seconds": 8.478444540989585,
+      "method": "pydantic_parse",
+      "prompt_tokens": 394,
+      "completion_tokens": 50
+    },
+    {
+      "elapsed_seconds": 6.173228250001557,
+      "method": "pydantic_parse",
+      "prompt_tokens": 378,
+      "completion_tokens": 37
+    },
+    {
+      "elapsed_seconds": 8.000473333988339,
+      "method": "pydantic_parse",
+      "prompt_tokens": 379,
+      "completion_tokens": 48
+    },
+    {
+      "elapsed_seconds": 8.186384250002448,
+      "method": "pydantic_parse",
+      "prompt_tokens": 391,
+      "completion_tokens": 49
+    },
+    {
+      "elapsed_seconds": 7.074565208982676,
+      "method": "pydantic_parse",
+      "prompt_tokens": 385,
+      "completion_tokens": 42
+    },
+    {
+      "elapsed_seconds": 7.016462832980324,
+      "method": "pydantic_parse",
+      "prompt_tokens": 381,
+      "completion_tokens": 40
+    },
+    {
+      "elapsed_seconds": 8.046647542039864,
+      "method": "pydantic_parse",
+      "prompt_tokens": 406,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 9.652334666985553,
+      "method": "pydantic_parse",
+      "prompt_tokens": 416,
+      "completion_tokens": 56
+    },
+    {
+      "elapsed_seconds": 7.985827125026844,
+      "method": "pydantic_parse",
+      "prompt_tokens": 401,
+      "completion_tokens": 46
+    },
+    {
+      "elapsed_seconds": 9.89905737497611,
+      "method": "pydantic_parse",
+      "prompt_tokens": 398,
+      "completion_tokens": 59
+    },
+    {
+      "elapsed_seconds": 6.895686708041467,
+      "method": "pydantic_parse",
+      "prompt_tokens": 384,
+      "completion_tokens": 41
+    },
+    {
+      "elapsed_seconds": 4.2726868750178255,
+      "method": "pydantic_parse",
+      "prompt_tokens": 381,
+      "completion_tokens": 35
+    }
+  ],
+  "errors": [],
+  "elapsed_seconds": 503.7241657919949
+}
